@@ -25,7 +25,7 @@ The following looks a lot more complicated that it is. It is just that we wrote 
 <hr>
 6. ==Open `project.json`== in your text editor and change the line:
 
-    "hostname": "box.local",
+    "hostname": "wplib.box",
    
 To:
 
